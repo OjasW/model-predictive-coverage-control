@@ -26,7 +26,7 @@ mpcc/
 ├── mpcc_code.py                  # Full monolithic version of the code (legacy/unorganized)
 │
 ├── requirements.txt              # List of required libraries
-|
+│
 ├── mpcc/                         # Organized, modular implementation
 │   ├── algorithm1_only.py        # Implementation of Algorithm 1
 │   ├── algorithm1_and_2.py       # Implementation of both Algorithm 1 and Algorithm 2
