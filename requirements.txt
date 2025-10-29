@@ -1,0 +1,13 @@
+# Core numerical and scientific libraries
+numpy
+scipy
+
+# Optimization and symbolic computation
+casadi
+
+# Plotting and visualization
+matplotlib
+
+# Computational geometry and spatial analysis
+shapely
+scipy
